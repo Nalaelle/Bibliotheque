@@ -1,0 +1,41 @@
+Challenge : Gérer une bibliothèque en Java !
+
+Votre mission :
+Vous avez été engagé pour aider une petite bibliothèque locale à passer de la gestion manuelle de ses livres à une solution informatisée. L'équipe de la bibliothèque a entendu parler de vos compétences en programmation Java et vous a confié cette tâche.
+
+La bibliothèque souhaite une application qui permette de :
+
+Gérer une collection de livres, chacun avec un titre, un auteur et une année de publication.
+Ajouter un livre à la collection.
+Retirer un livre de la collection.
+Afficher la liste complète des livres.
+Rechercher des livres par auteur et afficher les résultats.
+Pour réaliser ce défi, suivez les étapes ci-dessous :
+
+Analysez les besoins de la bibliothèque et identifiez les classes et méthodes nécessaires.
+
+Créez une structure de classes qui permet de gérer les livres en utilisant l'héritage et le polymorphisme.
+a. Créez une classe abstraite Book avec des sous-classes spécifiques comme Novel, NonFiction, etc.
+b. Implémentez des méthodes appropriées pour ajouter, retirer et afficher des livres.
+c. Pensez à utiliser des constructeurs et des accesseurs (getters et setters) pour chaque classe.
+
+Utilisez une interface Enum pour gérer les genres de livres (fiction, non-fiction, etc.).
+
+Utilisez une structure de données Map pour stocker les livres dans la bibliothèque.
+
+Implémentez la méthode toString dans les classes pour afficher les informations sur les livres.
+
+Assurez-vous d'utiliser des conventions de nommage appropriées et d'ajouter de la documentation (Javadoc) là où cela est nécessaire.
+
+Fournissez le code de l'application pour la bibliothèque !
+
+Livrable :
+
+Un lien vers votre repository GitHub contenant le code de l'application.
+💡 Besoin d'aide ?
+
+Utilisez des classes abstraites et des sous-classes pour gérer différentes catégories de livres.
+Lisez la documentation officielle sur les Enum pour gérer les genres de livres.
+Revoyez les chapitres sur l'héritage et le polymorphisme dans votre cours Java.
+Pensez à structurer votre code de manière logique et modulaire.
+Amusez-vous à créer cette application de gestion de bibliothèque en Java !
